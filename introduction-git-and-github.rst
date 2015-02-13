@@ -555,7 +555,7 @@ Make a new branch:
 
     $ git checkout -b stash-example
 
-Create or change a file and check the state:
+Change a file and check the state:
 
 .. code:: sh
 
