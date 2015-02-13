@@ -559,6 +559,7 @@ Create or change a file and check the state:
 
 .. code:: sh
 
+    $ vim sample.php
     $ git status
 
 Stash your changes before switching branches:
